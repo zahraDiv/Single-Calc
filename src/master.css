@@ -1,0 +1,12 @@
+@import "tailwindcss";   
+
+
+
+
+@layer components {
+  .btn {
+    @apply w-full h-14 rounded-full text-xl font-medium shadow-md hover:scale-105 transition-all duration-200;
+  }
+}
+
+
