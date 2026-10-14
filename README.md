@@ -1,1 +1,1 @@
-# Single-Calc
+https://zahradiv.github.io/Single-Calc/
